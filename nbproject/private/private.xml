@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Vista/MainGUI.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Dao/LibroDAO.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Dao/CategoriaDAO.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Controlador/UsuarioController.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Vista/LibroView.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Modelo/Prestamo.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Modelo/Usuario.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Dao/LibroCategoriaDAO.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Modelo/Recomendacion.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Conexion/ConexionBD.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Controlador/EditorialController.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Vista/Main.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Service/LibroService.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Service/UsuarioService.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Vista/SearchView.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Service/RecomendacionService.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Service/EditorialService.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Vista/UsuarioView.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Modelo/Autor.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Dao/AutorDAO.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Service/AutorService.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Modelo/Libro.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Vista/PrestamoView.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Vista/RecomendationView.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Dao/PrestamoDAO.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Controlador/RecomendacionController.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Dao/RecomendacionDAO.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Dao/EditorialDAO.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Service/PrestamoService.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Controlador/AutorController.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Controlador/LibroController.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Service/CategoriaService.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Vista/AppMenu.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Vista/MainAppFrame.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Modelo/Categoria.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Controlador/PrestamoController.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Controlador/LibroCategoriaController.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Service/LibroCategoriaService.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Controlador/CategoriaController.java</file>
+            <file>file:/C:/Users/felix/OneDrive/Documentos/Diseno-de-Patrones/PlanetBooks/src/Modelo/Editorial.java</file>
+        </group>
+    </open-files>
+</project-private>
